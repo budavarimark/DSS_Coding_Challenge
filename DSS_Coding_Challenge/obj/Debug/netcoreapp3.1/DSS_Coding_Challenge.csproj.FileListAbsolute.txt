@@ -1,0 +1,13 @@
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\obj\Debug\netcoreapp3.1\DSS_Coding_Challenge.AssemblyInfoInputs.cache
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\obj\Debug\netcoreapp3.1\DSS_Coding_Challenge.AssemblyInfo.cs
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\bin\Debug\netcoreapp3.1\DSS_Coding_Challenge.exe
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\bin\Debug\netcoreapp3.1\DSS_Coding_Challenge.deps.json
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\bin\Debug\netcoreapp3.1\DSS_Coding_Challenge.runtimeconfig.json
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\bin\Debug\netcoreapp3.1\DSS_Coding_Challenge.runtimeconfig.dev.json
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\bin\Debug\netcoreapp3.1\DSS_Coding_Challenge.dll
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\bin\Debug\netcoreapp3.1\DSS_Coding_Challenge.pdb
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\obj\Debug\netcoreapp3.1\DSS_Coding_Challenge.dll
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\obj\Debug\netcoreapp3.1\DSS_Coding_Challenge.pdb
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\bin\Debug\netcoreapp3.1\NLog.dll
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\obj\Debug\netcoreapp3.1\DSS_Coding_Challenge.csproj.CopyComplete
+D:\DSS\DSS_Coding_Challenge\DSS_Coding_Challenge\obj\Debug\netcoreapp3.1\DSS_Coding_Challenge.csprojAssemblyReference.cache

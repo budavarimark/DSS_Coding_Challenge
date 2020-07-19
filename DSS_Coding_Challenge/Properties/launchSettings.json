@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DSS_Coding_Challenge": {
+      "commandName": "Project",
+      "commandLineArgs": "d:\\DSS\\DSS_Coding_Challenge\\DSS_Coding_Challenge\\\\sample_input\\sample1.csv d:\\DSS\\DSS_Coding_Challenge\\DSS_Coding_Challenge\\sample_output\\"
+    }
+  }
+}
